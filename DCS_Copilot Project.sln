@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F15ETelemetryApp", "F15ETelemetryApp\F15ETelemetryApp.csproj", "{6320214F-3F80-7D64-756B-66C655475955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6320214F-3F80-7D64-756B-66C655475955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6320214F-3F80-7D64-756B-66C655475955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6320214F-3F80-7D64-756B-66C655475955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6320214F-3F80-7D64-756B-66C655475955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B531415E-B476-4414-AE1E-C477162F68EA}
+	EndGlobalSection
+EndGlobal

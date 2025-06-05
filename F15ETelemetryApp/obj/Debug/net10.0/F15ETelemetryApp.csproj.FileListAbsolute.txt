@@ -1,0 +1,18 @@
+C:\Users\User\Documents\Code\C#\DCS BIOS\F15ETelemetryApp\obj\Debug\net10.0\F15ETelemetryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Code\C#\DCS BIOS\F15ETelemetryApp\obj\Debug\net10.0\F15ETelemetryApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Code\C#\DCS BIOS\F15ETelemetryApp\obj\Debug\net10.0\F15ETelemetryApp.AssemblyInfo.cs
+C:\Users\User\Documents\Code\C#\DCS BIOS\F15ETelemetryApp\obj\Debug\net10.0\F15ETelemetryApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Code\C#\F15ETelemetryApp\obj\Debug\net10.0\F15ETelemetryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Code\C#\F15ETelemetryApp\obj\Debug\net10.0\F15ETelemetryApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Code\C#\F15ETelemetryApp\obj\Debug\net10.0\F15ETelemetryApp.AssemblyInfo.cs
+C:\Users\User\Documents\Code\C#\F15ETelemetryApp\obj\Debug\net10.0\F15ETelemetryApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Code\C#\F15ETelemetryApp\bin\Debug\net10.0\F15ETelemetryApp.exe
+C:\Users\User\Documents\Code\C#\F15ETelemetryApp\bin\Debug\net10.0\F15ETelemetryApp.deps.json
+C:\Users\User\Documents\Code\C#\F15ETelemetryApp\bin\Debug\net10.0\F15ETelemetryApp.runtimeconfig.json
+C:\Users\User\Documents\Code\C#\F15ETelemetryApp\bin\Debug\net10.0\F15ETelemetryApp.dll
+C:\Users\User\Documents\Code\C#\F15ETelemetryApp\bin\Debug\net10.0\F15ETelemetryApp.pdb
+C:\Users\User\Documents\Code\C#\F15ETelemetryApp\obj\Debug\net10.0\F15ETelemetryApp.dll
+C:\Users\User\Documents\Code\C#\F15ETelemetryApp\obj\Debug\net10.0\refint\F15ETelemetryApp.dll
+C:\Users\User\Documents\Code\C#\F15ETelemetryApp\obj\Debug\net10.0\F15ETelemetryApp.pdb
+C:\Users\User\Documents\Code\C#\F15ETelemetryApp\obj\Debug\net10.0\F15ETelemetryApp.genruntimeconfig.cache
+C:\Users\User\Documents\Code\C#\F15ETelemetryApp\obj\Debug\net10.0\ref\F15ETelemetryApp.dll

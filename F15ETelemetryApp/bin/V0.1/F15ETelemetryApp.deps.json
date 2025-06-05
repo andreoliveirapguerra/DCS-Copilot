@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "F15ETelemetryApp/1.0.0": {
+        "runtime": {
+          "F15ETelemetryApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "F15ETelemetryApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
