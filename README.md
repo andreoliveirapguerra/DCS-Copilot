@@ -22,7 +22,8 @@ An AI-powered copilot system for **DCS World** that uses real-time telemetry dat
 
 ### 🔧 System Requirements
 
-- **.NET SDK 10.0+**
+- **OLLAMA**
+  - Install ollama and run in terminal `ollama pull llama3.1:8b`
 - **Python 3.10.16**
 - **DCS World** with:
   - [DCS-BIOS](https://github.com/DCS-Skunkworks/dcs-bios/tree/main) properly installed and configured
@@ -87,3 +88,4 @@ Doubl click on Install.bat
 ## Troubleshooting
 - Ensure you only run the **Run.bat** AFTER the game was opened, and the mission started
 - Ensure every requirement have been installed
+- if you have troubles running the .exe, download and Install DOTNET version 10
