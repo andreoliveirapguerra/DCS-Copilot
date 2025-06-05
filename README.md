@@ -31,7 +31,7 @@ An AI-powered copilot system for **DCS World** that uses real-time telemetry dat
 Install via:
 
 ```bash
-pip install -r requirements.txt
+Doubl click on Install.bat
 ```
 ## Instalation and Configuration
 - Install the requiments and check if they're working
