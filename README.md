@@ -13,7 +13,7 @@ An AI-powered copilot system for **DCS World** that uses real-time telemetry dat
 ✅ Real-time telemetry parsing  
 ✅ Voice feedback using TTS  
 ✅ Voice command input via joystick + microphone  
-✅ AI integration via [Ollama](https://ollama.com) using LLaMA 3.1  
+✅ AI integration via Ollama using LLaMA 3.1  
 ✅ Control DCS-BIOS-enabled switches and buttons with AI-generated commands
 
 ---
@@ -22,7 +22,7 @@ An AI-powered copilot system for **DCS World** that uses real-time telemetry dat
 
 ### 🔧 System Requirements
 
-- **OLLAMA**
+- **[Ollama](https://ollama.com)**
   - Install ollama and run in terminal `ollama pull llama3.1:8b`
 - **Python 3.10.16**
 - **DCS World** with:
@@ -32,7 +32,7 @@ An AI-powered copilot system for **DCS World** that uses real-time telemetry dat
 Install via:
 
 ```bash
-Doubl click on Install.bat
+Double click on Install.bat
 ```
 ## Instalation and Configuration
 - Install the requiments and check if they're working
@@ -89,3 +89,12 @@ Doubl click on Install.bat
 - Ensure you only run the **Run.bat** AFTER the game was opened, and the mission started
 - Ensure every requirement have been installed
 - if you have troubles running the .exe, download and Install DOTNET version 10
+- If your Python version is the latest, create an python virtual env with 3.10.16 as follows:
+    1. Delete ollama_dcs folder if it exists
+    2. Install Python 3.10.16
+    3. Open terminal in the project folder
+    4. Run in the terminal
+       ```bash
+       python3.10 -m venv ollama_dcs
+       ```
+    5. Run the Install.bat by double clicking it  
